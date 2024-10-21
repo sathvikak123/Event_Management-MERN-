@@ -1,0 +1,28 @@
+/* EventDetailsPage.css */
+
+.event-details-container {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .event-details-container h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .event-details-container p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+  }
+  
+  .event-details-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
